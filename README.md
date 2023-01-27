@@ -1,5 +1,5 @@
 # Automated-ML-(ETL)-pipeline-of-electric-motor-temperature-sensor-data-for-commercial-vehicles (Master thesis)
---> Downstream of Data Analysis and Machine Learning
+--> Downstream of Data Analysis and Machine Learning 
 
 ### Research Objectives:
 1) To develop automated pipeline for data wrangling (data gathering, data cleaning and data 
@@ -27,6 +27,9 @@ The rotor temperature, stator temperature, and torque are the most intriguing go
 
 ### Programming Language:
 Python
+
+### Working Environment:
+Google Colab and Jupyter Notebook
 
 ### References:
 1)  Ran Le, Kaijun He, Ace Hu “Motor Temperature Prediction with K-Nearest Neighbors and Convolutional Neural Network”.
