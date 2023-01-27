@@ -25,6 +25,9 @@ Ultimately, our main goal is to develop automated machine learning pipeline on p
 ### Motivation:
 The rotor temperature, stator temperature, and torque are the most intriguing goal characteristics [1]-[6]. In a commercial vehicle, it is particularly difficult and expensive to correctly measure rotor temperature and torque. Strong rotor temperature estimators make it possible for the automotive industry to produce motors with less material and to implement control systems that make the most of the motor's potential. A precise estimation of the torque results in more accurate and appropriate motor control, which lowers power losses and eventually heat buildup.
 
+### Programming Language:
+Python
+
 ### References:
 1)  Ran Le, Kaijun He, Ace Hu “Motor Temperature Prediction with K-Nearest Neighbors and Convolutional Neural Network”.
 2)  Andres Lopez, “Electric Motor Data Analysis for Temperature Estimation”. Conference Paper · June 2021, 1 st Andres Alberto L ´ opez Esquivel.
