@@ -37,8 +37,8 @@ Python
 Google Colab and Jupyter Notebook
 
 ### References:
-[1]	H. Guo, Q. Ding, Y. Song, H. Tang, L. Wang, and J. Zhao, “Predicting temperature of permanent magnet synchronous motor based on deep neural network,” Energies (Basel), vol. 13, no. 18, Sep. 2020, doi: 10.3390/EN13184782.
-[2]	H. Zhang, M. Dou, and J. Deng, “Loss-minimization strategy of nonsinusoidal back EMF PMSM in multiple synchronous reference frames,” IEEE Trans Power Electron, vol. 35, no. 8, pp. 8335–8346, Aug. 2020, doi: 10.1109/TPEL.2019.2961689.
+1. 	H. Guo, Q. Ding, Y. Song, H. Tang, L. Wang, and J. Zhao, “Predicting temperature of permanent magnet synchronous motor based on deep neural network,” Energies (Basel), vol. 13, no. 18, Sep. 2020, doi: 10.3390/EN13184782.
+2. 	H. Zhang, M. Dou, and J. Deng, “Loss-minimization strategy of nonsinusoidal back EMF PMSM in multiple synchronous reference frames,” IEEE Trans Power Electron, vol. 35, no. 8, pp. 8335–8346, Aug. 2020, doi: 10.1109/TPEL.2019.2961689.
 [3]	M. Jafari and S. A. Taher, “Thermal survey of core losses in permanent magnet micro-motor,” Energy, vol. 123, pp. 579–584, 2017, doi: 10.1016/j.energy.2017.02.016.
 [4]	“5 Reasons Your Electric Motors Keep Overheating.” https://gesrepair.com/5-reasons-electric-motors-keep-overheating/ (accessed Apr. 03, 2023).
 [5]	Ö. Çelik and S. S. Altunaydın, “A Research on Machine Learning Methods and Its Applications,” Journal of Educational Technology & Online Learning, vol. 1, no. 3, pp. 25–40, 2018, doi: 10.31681\jetol.457046.
