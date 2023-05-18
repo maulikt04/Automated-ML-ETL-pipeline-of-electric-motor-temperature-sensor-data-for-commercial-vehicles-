@@ -2,10 +2,10 @@
 --> Downstream Data Analysis and Machine Learning 
 
 ### Research Objectives:
-	The main research objective of this master’s thesis is to develop an automated machine learning pipeline for data wrangling (data gathering, data cleaning, and data structuring) and selecting the best model out of pre-defended multiple models during training for the production environment. 
-	Use Based line linear regression, K-Neighbor regression, Ridge regression, Lasso regression, Decision Tree Regression, and Random Forest to estimate the temperature of the rotor, Stator winding temperature, and mechanical torque. Derive the best features from the existing attributes by using feature engineering.
-	To optimization of the created or existing machine learning pipeline.
-	Evaluation of the model before and after adding new data which will create an effect on the model performance, applying the Validation methods on the pipeline, generating the graphical visualizations, and documentation of the result with brief explanations.
+1. The main research objective of this master’s thesis is to develop an automated machine learning pipeline for data wrangling (data gathering, data cleaning, and data structuring) and selecting the best model out of pre-defended multiple models during training for the production environment. 
+2.	Use Based line linear regression, K-Neighbor regression, Ridge regression, Lasso regression, Decision Tree Regression, and Random Forest to estimate the temperature of the rotor, Stator winding temperature, and mechanical torque. Derive the best features from the existing attributes by using feature engineering.
+3.	To optimization of the created or existing machine learning pipeline.
+4.	Evaluation of the model before and after adding new data which will create an effect on the model performance, applying the Validation methods on the pipeline, generating the graphical visualizations, and documentation of the result with brief explanations.
 
 
 
