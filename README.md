@@ -39,15 +39,15 @@ Google Colab and Jupyter Notebook
 ### References:
 1. 	H. Guo, Q. Ding, Y. Song, H. Tang, L. Wang, and J. Zhao, “Predicting temperature of permanent magnet synchronous motor based on deep neural network,” Energies (Basel), vol. 13, no. 18, Sep. 2020, doi: 10.3390/EN13184782.
 2. 	H. Zhang, M. Dou, and J. Deng, “Loss-minimization strategy of nonsinusoidal back EMF PMSM in multiple synchronous reference frames,” IEEE Trans Power Electron, vol. 35, no. 8, pp. 8335–8346, Aug. 2020, doi: 10.1109/TPEL.2019.2961689.
-[3]	M. Jafari and S. A. Taher, “Thermal survey of core losses in permanent magnet micro-motor,” Energy, vol. 123, pp. 579–584, 2017, doi: 10.1016/j.energy.2017.02.016.
-[4]	“5 Reasons Your Electric Motors Keep Overheating.” https://gesrepair.com/5-reasons-electric-motors-keep-overheating/ (accessed Apr. 03, 2023).
-[5]	Ö. Çelik and S. S. Altunaydın, “A Research on Machine Learning Methods and Its Applications,” Journal of Educational Technology & Online Learning, vol. 1, no. 3, pp. 25–40, 2018, doi: 10.31681\jetol.457046.
-[6]	“Advantages and Disadvantages of Machine Learning | Pros and Cons of Machine Learning, Drawbacks and Benefits - A Plus Topper.” https://www.aplustopper.com/advantages-and-disadvantages-of-machine-learning/ (accessed Apr. 03, 2023).
-[7]	“Exploring the Advantages and Disadvantages of Machine Learning - TechVidvan.” https://techvidvan.com/tutorials/advantages-and-disadvantages-of-machine-learning/ (accessed Apr. 03, 2023).
-[8]	G. D’aloisio and G. Stilo, “Modeling Quality and Machine Learning Pipelines through Extended Feature Models; Modeling Quality and Machine Learning Pipelines through Extended Feature Models,” 2022, doi: 10.1145/nnnnnnn.nnnnnnn.
-[9]	“What is a Machine Learning Pipeline?” https://www.seldon.io/what-is-a-machine-learning-pipeline (accessed Apr. 03, 2023).
-[10]	A. Lopez, A. Alberto, and L. Esquivel, “Electric Motor Data Analysis for Temperature Estimation,” 2021. [Online]. Available: https://www.researchgate.net/publication/352261170
-[11]	T. V. Tran and E. Nègre, “Efficient estimator of rotor temperature designing for electric and hybrid powertrain platform,” Electronics (Switzerland), vol. 9, no. 7, pp. 1–12, Jul. 2020, doi: 10.3390/electronics9071096.
+3. 	M. Jafari and S. A. Taher, “Thermal survey of core losses in permanent magnet micro-motor,” Energy, vol. 123, pp. 579–584, 2017, doi: 10.1016/j.energy.2017.02.016.
+4. “5 Reasons Your Electric Motors Keep Overheating.” https://gesrepair.com/5-reasons-electric-motors-keep-overheating/ (accessed Apr. 03, 2023).
+5. Ö. Çelik and S. S. Altunaydın, “A Research on Machine Learning Methods and Its Applications,” Journal of Educational Technology & Online Learning, vol. 1, no. 3, pp. 25–40, 2018, doi: 10.31681\jetol.457046.
+6. 	“Advantages and Disadvantages of Machine Learning | Pros and Cons of Machine Learning, Drawbacks and Benefits - A Plus Topper.” https://www.aplustopper.com/advantages-and-disadvantages-of-machine-learning/ (accessed Apr. 03, 2023).
+7. 	“Exploring the Advantages and Disadvantages of Machine Learning - TechVidvan.” https://techvidvan.com/tutorials/advantages-and-disadvantages-of-machine-learning/ (accessed Apr. 03, 2023).
+8. 	G. D’aloisio and G. Stilo, “Modeling Quality and Machine Learning Pipelines through Extended Feature Models; Modeling Quality and Machine Learning Pipelines through Extended Feature Models,” 2022, doi: 10.1145/nnnnnnn.nnnnnnn.
+9. 	“What is a Machine Learning Pipeline?” https://www.seldon.io/what-is-a-machine-learning-pipeline (accessed Apr. 03, 2023).
+10.	A. Lopez, A. Alberto, and L. Esquivel, “Electric Motor Data Analysis for Temperature Estimation,” 2021. [Online]. Available: https://www.researchgate.net/publication/352261170
+11.	T. V. Tran and E. Nègre, “Efficient estimator of rotor temperature designing for electric and hybrid powertrain platform,” Electronics (Switzerland), vol. 9, no. 7, pp. 1–12, Jul. 2020, doi: 10.3390/electronics9071096.
 [12]	A. Zhou, C. Du, Z. Peng, Q. Peng, and D. Qin, “Rotor Temperature Safety Prediction Method of PMSM for Electric Vehicle on Real-Time Energy Equivalence,” Math Probl Eng, vol. 2020, 2020, doi: 10.1155/2020/3213052.
 [13]	P. Thosar, J. Patil, M. Singh, S. Thamke, and S. Gonge, “Prediction of motor temperature using linear regression,” in Proceedings of the International Conference on Smart Technologies in Computing, Electrical and Electronics, ICSTCEE 2020, Institute of Electrical and Electronics Engineers Inc., Oct. 2020, pp. 7–12. doi: 10.1109/ICSTCEE49637.2020.9277184.
 [14]	D. Huger and D. Gerling, “An advanced lifetime prediction method for permanent magnet synchronous machines,” Proceedings - 2014 International Conference on Electrical Machines, ICEM 2014, pp. 686–691, Nov. 2014, doi: 10.1109/ICELMACH.2014.6960255.
